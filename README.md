@@ -1,2 +1,2 @@
 # GraphQL-Express
- game grahpql example
+ game graphql example
